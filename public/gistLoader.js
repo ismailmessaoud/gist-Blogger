@@ -1,6 +1,6 @@
 (function() {
     
-    var gistBloggerPath = "https://cdn.jsdelivr.net/gh/ismailmessaoud/gist-Blogger@master/public/gistLoader.js";
+    var gistBloggerPath = "https://cdn.jsdelivr.net/gh/ismailmessaoud/gist-Blogger@master/public/gistBlogger.js";
 
     // Initialize the load the main script.
     try {
